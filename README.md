@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DemaPy
 - 👀 I’m interested in programming and crypto cuttency
-- 🌱 I’m currently learning html, css, python, js, flutter, also i wanna learn solidity and react.
+- 🌱 I’m currently learning html, css, python, js, react, gulp also i want to learn solidity.
 - 💞️ I’m looking to get some work and maybe create some Web 3.0 application
 - 📫 How to reach me ...
 
