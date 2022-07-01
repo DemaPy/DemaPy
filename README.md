@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Slavek
-- 👀 I’m interested in programming and crypto cuttency
-- 🌱 I’m currently learning html, css, python, js, react, gulp also i want to learn solidity.
+- 👀 I’m interested in programming, crypto cuttency and photo
+- 🌱 Technologies that i use for develop Javascript Python Html Css Gulp React Django
 - 💞️ I’m wanna be Full Stack Developer
 <!---
 DemaPy/DemaPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
