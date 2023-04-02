@@ -9,5 +9,4 @@
 - ⚡ I enjoy photography, travelling, and lifting weights :)
 - 📫 Reach out to me: benderdema@gmail.com
 
-
-
+You can also checkout my cv! [CV_Viaczeslav_Demczenko.pdf](https://github.com/DemaPy/DemaPy/files/11132213/CV_Viaczeslav_Demczenko.pdf)
