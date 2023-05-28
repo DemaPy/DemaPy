@@ -10,4 +10,5 @@
 - 📫 Reach out to me: benderdema@gmail.com
 
 You can also checkout my cv!
-[Viacheslav_Demchenko_-_Front_end_Developer (1).pdf](https://github.com/DemaPy/DemaPy/files/11331884/Viacheslav_Demchenko_-_Front_end_Developer.1.pdf)
+
+[Viacheslav_Demchenko_-_Front_end_Developer.pdf](https://github.com/DemaPy/DemaPy/files/11585270/Viacheslav_Demchenko_-_Front_end_Developer.pdf)
