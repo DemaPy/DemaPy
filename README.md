@@ -5,7 +5,8 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/v_demchenko.ph) 
 
 - Feel free to checkout my [portfolio](https://demapy.github.io/) website!
-- 🧰 I build with: `JavaScript` `React`, `Tailwind`, `Redux`,...
+- 🧰 I build with: `React`, `NextJS`, `Tailwind`, `Redux`,...
+- 🧰 I have worked with UI lib: Material UI, Radix UI, Shadcn, AntD...
 - ⚡ I enjoy photography, travelling, and lifting weights :)
 - 📫 Reach out to me: benderdema@gmail.com
 
