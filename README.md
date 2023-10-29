@@ -10,4 +10,4 @@
 
 You can also checkout my cv!
 
-[Front_end_Developer.pdf](https://github.com/DemaPy/DemaPy/files/11585270/Viacheslav_Demchenko_-_Front_end_Developer.pdf)
+[Viacheslav_Demchenko_-_Frontend_Developer.pdf](https://github.com/DemaPy/DemaPy/files/13199182/Viacheslav_Demchenko_-_Frontend_Developer.pdf)
