@@ -2,7 +2,6 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viacheslavdemchenko/)
 
-- Feel free to checkout my [portfolio](https://demapy.github.io/) website!
 - 🧰 I build with: `React`, `NextJS`, `Typescript`, `TailwindCss`, `Redux`,...
 - 🧰 I have worked with UI lib: Material UI, Radix UI, Shadcn, AntD...
 - ⚡ I enjoy photography, travelling, and lifting weights :)
