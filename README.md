@@ -1,4 +1,5 @@
-> [!INFO] Hey, I'm Slavek 👋🏽
+> [!INFO]
+> ## Hey, I'm Slavek 👋🏽
 >I'm a 25-year-old developer based in Poland, and I'm passionate about creating digital experiences.
 
 ## 📦 Toolbox
