@@ -8,9 +8,11 @@
 - Reach out to me: benderdema@gmail.com
 
 ## ✨ Fun Facts
-- I like making photos also I am trying to make videos
+- I like making photos
+<img src="https://github.com/DemaPy/DemaPy/assets/80632445/ef009186-b427-4e18-ab23-c598e7328486" style="max-width: 640px; aspect-ratio: 16/9;" />
+
 - Explore new places, meet new people and share experience
-- Lifting weights to keep myself in best shape
+<img src="https://github.com/DemaPy/DemaPy/assets/80632445/a98ac648-d68b-4ee0-8c36-115fb08bfe04" style="max-width: 640px; aspect-ratio: 16/9;" />
 
 ## 📫 Contact
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viacheslavdemchenko/)
