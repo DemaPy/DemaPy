@@ -1,6 +1,5 @@
 ### Hey, I'm Slavek 👋🏽
-
-I'm a 25-year-old developer based in Poland, and I'm passionate about creating digital experiences.
+>I'm a 25-year-old developer based in Poland, and I'm passionate about creating digital experiences.
 
 ## 📦 Toolbox
 - Frontend Development: `React` `NextJS` `Typescript` `TailwindCss` `Redux` `Zustand`
