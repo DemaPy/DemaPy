@@ -5,7 +5,7 @@
 ## 📦 Toolbox
 - Frontend Development: `React` `NextJS` `Typescript` `TailwindCss` `Redux` `Zustand`
 - Version Control: `Git`
-- Backend Development: `Nest.js` `ExpressJs` `PostgreSQL` `Flask`
+- Backend Development: `Nest.js` `ExpressJs` `PostgreSQL`
 
 ## ✨ Fun Facts
 - I like making photos
