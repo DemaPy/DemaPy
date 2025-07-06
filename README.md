@@ -1,8 +1,8 @@
 > [!NOTE]
 > ### Hey, I'm Slavek 👋🏽
->I'm a 26-year-old developer based in Poland, and I'm passionate about creating digital products with thought of UX/UI.
+> I'm a 27-year-old developer based in Poland, and I'm proactive software developer with passion about creating digital products!
 
 ## 📦 Toolbox
-- Frontend Development: `React` `NextJS` `Typescript` `TailwindCss` `Redux` `Zustand`
+- Frontend Development: `React` `NextJS` `Typescript` `Tailwind` `Redux` `Zustand` `Shadcn` `MaterialUI`
 - Version Control: `Git`
-- Backend Development: `Nest.js` `ExpressJs` `PostgreSQL` `Prisma` `TypeORM`
+- Backend Development: `NestJs` `ExpressJs` `PostgreSQL` `Prisma`
