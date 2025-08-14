@@ -1,6 +1,6 @@
 > [!NOTE]
 > ### Hey, I'm Slavek 👋🏽
-> I'm a proactive software developer based in Poland have hands on experience about creating digital products.
+> I'm a proactive software developer based in Poland have hands on experience about creating digital products. \
 > Speaker in 5 languages: `English` `Polish` `Ukranian` `Russian` `German (actively learning)`
 
 ## 📦 Toolbox
