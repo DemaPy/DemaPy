@@ -1,9 +1,15 @@
 > [!NOTE]
 > ### Hey, I'm Slavek 👋🏽
-> I'm a 27-year-old developer based in Poland, and I'm proactive software developer with passion about creating digital products!
+> I'm a proactive software developer based in Poland have hands on experience about creating digital products.
+> Speaker in 4 languages
+- English
+- Polish
+- Ukranian
+- Russian
+- German (actively learning)
 
 ## 📦 Toolbox
 - Frontend Development: `ReactJs` `NextJs` `Typescript` `Tailwind` `Redux` `Zustand` `Shadcn` `MaterialUI` `Zod` `React-hook-form`
+- Backend Development: `NestJs` `ExpressJs` `Docker` `PrismaORM` `TypeORM` `Python` `Django` `Django DRF`
 - Version Control: `Git`
-- Backend Development: `NestJs` `ExpressJs` `Docker` `PrismaORM` `TypeORM` `Python` `Django` `Django DRF`,
 - Databases: `Redis` `PostgreSQL` `Mongo`
